@@ -1,4 +1,4 @@
 pace-calc
 =========
 
-## A running app built to help runners calculate their pace. 
+## An app built to help runners calculate their pace. 
